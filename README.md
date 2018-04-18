@@ -1,4 +1,4 @@
-# JS-para-quem-quer-aprender
+# JS do início ao avançado
 Este repositório tem como foco ensinar JavaScript desde do básico ao avançado para quem quer se tornar um desenvolvedor web.
 ## Contribuições
  Bom, eu gosto de contribuir com a comunidade com o pouco que sei e gostaria de fazer mais, mas infelizmente por hora minha situação 
